@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "TList.h"
 #include <iostream>
 #include <cstdint>
