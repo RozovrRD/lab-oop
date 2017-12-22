@@ -22,7 +22,7 @@ void menu()
 int main(void)
 {
 	int32_t act = 0;
-	TList list;
+	TList<Figure> list;
 	std::shared_ptr<Figure> ptr;
 	do {
 		menu();
